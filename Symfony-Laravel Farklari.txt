@@ -1,0 +1,23 @@
+﻿1-A) Symfony kullanmanın başlıca yararı bir framework oluşunda gizlidir. Framework bir web sitesi için daha önceden oluşturulmuş olan içinizde 
+ihtiyacınıza yönelik kodlamalar bulunan bir kütüphanedir. Geliştirici bunları kullanarak ciddi anlamda zamandan ve uğraştan tasarruf edebilir 
+ayrıca daha sonrasında herhangi bir düzenleme yapılması durumunda ise düzenleme yapılması gereken kısma erişmek daha kolaydır. Peki ama neden 
+symfony derseniz bunun birçok cevabı var. Öncelikle açık kaynaklı olduğu için sürekli bir gelişim ve güncelleme içerisindedir. Bununla beraber
+diğer pek çok frameworka oranla daha güvenilirdir. Esnek yapısı sayesinde projelere düzenleme yapmak ve müdahale etmek daha kolaydır. Bunlar ve
+bunlar gibi pek çok sebep symfony kullanmamız için bir nedendir.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+1-B).env, .yaml , .xml ve .php dosyaları ile environment ayarlaması yapılır.
+
+
+---------------------------------------------------------------------------------------------------------------------------
+1-C) Şuan bizim kullandığımız sürüm olan(4.4):
+- symfony new blog --version=4.4 --full
+
+
+Güncel olan en son sürüm(5.3);
+- symfony new blog --full
+---------------------------------------------------------------------------------------------------------------------------
+1-D) 
+- Symfony, Twig şablon sistemini kullanırken Laravel ise  Blade şablon sistemini kullanır.
+- Symfony, veritabanı erişimi için Doctrine kullanırken Laravel ise veritabanı erişimi için Eloquent kullanır.
